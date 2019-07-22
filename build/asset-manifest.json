@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d7f81c6d.chunk.css",
+    "main.js": "/static/js/main.5015c29f.chunk.js",
+    "main.js.map": "/static/js/main.5015c29f.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.3f67236b.chunk.js": "/static/js/2.3f67236b.chunk.js",
+    "static/js/2.3f67236b.chunk.js.map": "/static/js/2.3f67236b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fa9d2942a5d7162b4f849bacce29734e.js": "/precache-manifest.fa9d2942a5d7162b4f849bacce29734e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d7f81c6d.chunk.css.map": "/static/css/main.d7f81c6d.chunk.css.map",
+    "static/media/stoBooks.png": "/static/media/stoBooks.3ed38152.png"
+  }
+}
